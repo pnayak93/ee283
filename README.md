@@ -12,3 +12,7 @@ Random text for git pull request
 [Link to Homework 3 Repo](https://github.com/pnayak93/week_3_lab/tree/main)
 
 
+## Week 4
+[Link to Homework 4 Repo](https://github.com/pnayak93/ee283_week_4)
+
+
