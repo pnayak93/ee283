@@ -15,4 +15,5 @@ Random text for git pull request
 ## Week 4
 [Link to Homework 4 Repo](https://github.com/pnayak93/ee283_week_4)
 
-
+## Week 5
+[Link to Homework 5 Repo](https://github.com/pnayak93/ee283_week5)
