@@ -24,3 +24,9 @@ Random text for git pull request
 
 ## Week 7
 [Link to Homework 7 Repo](https://github.com/pnayak93/week_7)
+
+## Week 8
+[Link to Homework 8 Repo](https://github.com/pnayak93/week_8)
+
+## Week 9
+[Link to Homework 9 Repo](https://github.com/pnayak93/week_9)
