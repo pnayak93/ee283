@@ -30,3 +30,6 @@ Random text for git pull request
 
 ## Week 9
 [Link to Homework 9 Repo](https://github.com/pnayak93/week_9)
+
+## Final Project
+[Link to Final Project Repo](https://github.com/pnayak93/Final_Project)
